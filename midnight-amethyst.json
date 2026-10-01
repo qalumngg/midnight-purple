@@ -251,6 +251,27 @@
     ],
     "STATUS_DANGER_BACKGROUND": [
       "#e0405e"
+    ],
+    "ANDROID_RIPPLE": [
+      "#22183d"
+    ],
+    "EMBED_BACKGROUND": [
+      "#120c22"
+    ],
+    "CARD_PRIMARY_PRESSED_BG": [
+      "#22183d"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#261d3a"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#e4dcf5"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#e4dcf5"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#312a46"
     ]
   },
   "rawColors": {
@@ -306,11 +327,71 @@
     "BRAND_800": "#1c0e38",
     "BRAND_830": "#150a2a",
     "BRAND_860": "#0f071e",
-    "BRAND_900": "#090412"
+    "BRAND_900": "#090412",
+    "BLUE_100": "#f1ebff",
+    "BLUE_130": "#e6dbff",
+    "BLUE_160": "#d9c8ff",
+    "BLUE_200": "#c9b2ff",
+    "BLUE_230": "#bea2ff",
+    "BLUE_260": "#b597ff",
+    "BLUE_300": "#a682ff",
+    "BLUE_330": "#9b73ff",
+    "BLUE_345": "#9468ff",
+    "BLUE_360": "#8f62ff",
+    "BLUE_400": "#8c5cff",
+    "BLUE_430": "#8352f7",
+    "BLUE_460": "#7a48f0",
+    "BLUE_500": "#8c5cff",
+    "BLUE_530": "#7a48f0",
+    "BLUE_560": "#6b3be0",
+    "BLUE_600": "#5c30c4",
+    "BLUE_630": "#4f28a8",
+    "BLUE_660": "#43218d",
+    "BLUE_700": "#371b73",
+    "BLUE_730": "#2c165c",
+    "BLUE_760": "#241249",
+    "BLUE_800": "#1c0e38",
+    "BLUE_830": "#150a2a",
+    "BLUE_860": "#0f071e",
+    "BLUE_900": "#090412",
+    "PLUM_3": "#f1ebff",
+    "PLUM_4": "#b597ff",
+    "PLUM_6": "#e4dcf5",
+    "PLUM_9": "#b8acd4",
+    "PLUM_10": "#8f84a8",
+    "PLUM_11": "#8f84a8",
+    "PLUM_13": "#7a6f94",
+    "PLUM_14": "#312a46",
+    "PLUM_15": "#261d3a",
+    "PLUM_16": "#1e1634",
+    "PLUM_17": "#06040c",
+    "PLUM_18": "#1a1230",
+    "PLUM_19": "#18112b",
+    "PLUM_20": "#0c0818",
+    "PLUM_21": "#090611",
+    "PLUM_22": "#06040c",
+    "PLUM_23": "#030207",
+    "GUILD_BOOSTING_BLUE": "#8c5cff",
+    "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#8c5cff",
+    "GUILD_BOOSTING_PURPLE": "#8c5cff",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#8c5cff",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#8c5cff33",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#c9b2ff"
   },
   "background": {
     "url": "https://i.imgur.com/koEbaes.png",
     "blur": 0,
     "alpha": 1
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "mentionLineColor": "#8c5cff",
+    "icons": {
+      "img_guild_folder": "#8c5cff",
+      "StatusStreaming": "#8c5cff",
+      "ic_radio_circle_checked": "#8c5cff",
+      "ic_selection_checked_24px": "#8c5cff"
+    }
   }
 }
