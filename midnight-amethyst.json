@@ -1,0 +1,316 @@
+{
+  "name": "Midnight Amethyst (Deep)",
+  "description": "Darker, gradient take on Midnight Blurple. Violet-to-black gradient background with an amethyst accent.",
+  "authors": [
+    {
+      "name": "Anonymous",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#0c081800"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#090611"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#08050f"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#06040c"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#07050e"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#06040c"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0c081800"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#090611"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#22183d"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#1a123080"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#22183d99"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#22183d"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#1e1634"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#120c2266"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#8c5cff1f"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#8c5cff2e"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#0c081800"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#090611"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#06040c"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#07050e"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#07050e"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#120c22"
+    ],
+    "BG_MOD_FAINT": [
+      "#1a123066"
+    ],
+    "BG_MOD_SUBTLE": [
+      "#1a123099"
+    ],
+    "BG_MOD_STRONG": [
+      "#22183d"
+    ],
+    "BG_BACKDROP": [
+      "#05040acc"
+    ],
+    "HOME_BACKGROUND": [
+      "#06040c"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0c081800"
+    ],
+    "MODAL_BACKGROUND": [
+      "#090611"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#120c22"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#0c0818"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#120c22"
+    ],
+    "INPUT_BACKGROUND": [
+      "#06040c"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#120c22"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#120c22"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#090611"
+    ],
+    "EXPRESSION_PICKER_BG": [
+      "#090611"
+    ],
+    "DEPRECATED_CARD_BG": [
+      "#120c22"
+    ],
+    "DEPRECATED_CARD_EDITABLE_BG": [
+      "#120c22"
+    ],
+    "DEPRECATED_STORE_BG": [
+      "#0c0818"
+    ],
+    "BORDER_FAINT": [
+      "#1a1230"
+    ],
+    "BORDER_SUBTLE": [
+      "#1e1634"
+    ],
+    "BORDER_STRONG": [
+      "#312a46"
+    ],
+    "BORDER_NORMAL": [
+      "#1e1634"
+    ],
+    "HEADER_PRIMARY": [
+      "#f1ebff"
+    ],
+    "HEADER_SECONDARY": [
+      "#b8acd4"
+    ],
+    "TEXT_NORMAL": [
+      "#e4dcf5"
+    ],
+    "TEXT_DEFAULT": [
+      "#e4dcf5"
+    ],
+    "TEXT_STRONG": [
+      "#f1ebff"
+    ],
+    "TEXT_SUBTLE": [
+      "#b8acd4"
+    ],
+    "TEXT_PRIMARY": [
+      "#e4dcf5"
+    ],
+    "TEXT_SECONDARY": [
+      "#b8acd4"
+    ],
+    "TEXT_MUTED": [
+      "#8f84a8"
+    ],
+    "TEXT_LINK": [
+      "#b597ff"
+    ],
+    "TEXT_BRAND": [
+      "#b597ff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8f84a8"
+    ],
+    "CHANNEL_ICON": [
+      "#8f84a8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#b8acd4"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#e4dcf5"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#4b4163"
+    ],
+    "ICON_PRIMARY": [
+      "#e4dcf5"
+    ],
+    "ICON_SECONDARY": [
+      "#b8acd4"
+    ],
+    "ICON_MUTED": [
+      "#7a6f94"
+    ],
+    "MENTION_BACKGROUND": [
+      "#8c5cff33"
+    ],
+    "MENTION_FOREGROUND": [
+      "#c9b2ff"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#1e1634"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#261d3a"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#312a46"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#8c5cff"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#7a48f0"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#1e1634"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#312a46"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#120c22"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#22183d"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#22183d"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#06040c"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#1e1634"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#120c22"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#3ba55c"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#e0405e"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#f4f0fb",
+    "PRIMARY_130": "#ece6f8",
+    "PRIMARY_160": "#e1d9f2",
+    "PRIMARY_200": "#cfc4e6",
+    "PRIMARY_230": "#bdb0d8",
+    "PRIMARY_260": "#a99bc8",
+    "PRIMARY_300": "#8f84a8",
+    "PRIMARY_330": "#7a6f94",
+    "PRIMARY_345": "#6c6185",
+    "PRIMARY_360": "#5f5478",
+    "PRIMARY_400": "#463c5e",
+    "PRIMARY_430": "#372f4d",
+    "PRIMARY_460": "#2b243f",
+    "PRIMARY_500": "#1e1634",
+    "PRIMARY_530": "#18112b",
+    "PRIMARY_560": "#120c22",
+    "PRIMARY_600": "#0c0818",
+    "PRIMARY_630": "#090611",
+    "PRIMARY_645": "#08050f",
+    "PRIMARY_660": "#06040c",
+    "PRIMARY_700": "#05030a",
+    "PRIMARY_730": "#040308",
+    "PRIMARY_760": "#030207",
+    "PRIMARY_800": "#020105",
+    "PRIMARY_830": "#020104",
+    "PRIMARY_860": "#010103",
+    "PRIMARY_900": "#000000",
+    "BRAND_100": "#f1ebff",
+    "BRAND_130": "#e6dbff",
+    "BRAND_160": "#d9c8ff",
+    "BRAND_200": "#c9b2ff",
+    "BRAND_230": "#bea2ff",
+    "BRAND_260": "#b597ff",
+    "BRAND_300": "#a682ff",
+    "BRAND_330": "#9b73ff",
+    "BRAND_345": "#9468ff",
+    "BRAND_360": "#8f62ff",
+    "BRAND_400": "#8c5cff",
+    "BRAND_430": "#8352f7",
+    "BRAND_460": "#7a48f0",
+    "BRAND_500": "#8c5cff",
+    "BRAND_530": "#7a48f0",
+    "BRAND_560": "#6b3be0",
+    "BRAND_600": "#5c30c4",
+    "BRAND_630": "#4f28a8",
+    "BRAND_660": "#43218d",
+    "BRAND_700": "#371b73",
+    "BRAND_730": "#2c165c",
+    "BRAND_760": "#241249",
+    "BRAND_800": "#1c0e38",
+    "BRAND_830": "#150a2a",
+    "BRAND_860": "#0f071e",
+    "BRAND_900": "#090412"
+  },
+  "background": {
+    "url": "https://i.imgur.com/koEbaes.png",
+    "blur": 0,
+    "alpha": 1
+  }
+}
